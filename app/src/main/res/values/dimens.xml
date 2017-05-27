@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_img">8dp</dimen>
+    <dimen name="margin_img1">4dp</dimen>
+    <dimen name="textview_padding">12dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+</resources>

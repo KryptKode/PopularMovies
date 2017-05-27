@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="detail_label">Movie Details</string>
+    <string name="sort_by_top_rated_text">Sort by Rating</string>
+    <string name="sort_by_top_rated_toast">"Sorting by Rating..."</string>
+    <string name="sort_by_popularity_text">Sort by Popularity</string>
+    <string name="sort_by_polularity_toast">"Sorting by Popularity..."</string>
+    <string name="please_wait">Hey, Please Wait...</string>
+    <string name="data_is_loading_text">Loading data… </string>
+    <string name="is_connected_text">Getting Data...</string>
+    <string name="error_message">Unable to Load Data</string>
+    <string name="is_not_connected_text">Please turn on your internet connection</string>
+    <string name="title">Title</string>
+    <string name="image_description">Movie Poster</string>
+    <string name="release_date_text_view_label">Release Date: </string>
+    <string name="rating_text_view_label">Rating: </string>
+    <string name="overview_text_view_label">Overview: </string>
+    <string name="default_text">Not Found</string>
+
+</resources>

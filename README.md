@@ -1,7 +1,7 @@
 # PopularMovies
 This app fetches popular movies, using the TheMovieDB API.
 
-To fetch popular movies, you will use the API from
+* To fetch popular movies, you will use the API from -
 
 ```
 http://themoviedb.org
@@ -15,7 +15,7 @@ will be for educational/non-commercial use.
 You will also need to provide some personal information to complete the request.
 Once you submit your request, you should receive your key via email shortly after.
 
-? Once you obtain your key, navigate to
+* Once you obtain your key, navigate to
 ```
 PopularMovies/gradle.properties
 ```
